@@ -1,0 +1,286 @@
+{
+  "basics": {
+    "name": "Kajetan Kurus",
+    "label": "Programmer / Line Manager",
+    "picture": "https://scontent-waw1-1.xx.fbcdn.net/v/t31.0-8/28828798_10211685977326779_1550083750231931511_o.jpg?_nc_cat=102&_nc_oc=AQl6guOQx-3hxnRvWmHl8t7-YLnfz_vMToTDzC8BZ1y036X554Wmzwv1oQUDguE2fX1w1asSPksxa00zBSLNBFPh&_nc_ht=scontent-waw1-1.xx&oh=48eaebc6bf67e518cbc53d9c8492c68d&oe=5E5B1FC3",
+    "email": "kajetan.kurus@gmail.com",
+    "phone": "(+48) 605997507",
+    "website": "krtsolutions.pl",
+    "summary": "Experienced C/C++ developer owing to over 6 year professional, academic practice and being a programming teacher at the university. Line Manager focused on people and team management. Good knowledge of MATLAB and Java due to prototyping and developing experience gained during internships, research work and private projects.  Experienced in Automotive field as a result of extensive professional practice and personal interests.  Comprehensive thanks to two engineer degrees, master degree, postgraduate studies, versatile courses end experience from both local and foreign companies.  Communicative, open-minded, team-player, constantly self-developing, interested in project and team management.",
+    "location": {
+      "address": "Lotnicza 145 B65",
+      "postalCode": "54-132",
+      "city": "Wrocław",
+      "countryCode": "PL",
+      "region": "DS"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Kajetan-K",
+        "url": "https://github.com/Kajetan-K"
+      },
+      {
+        "network": "LinkedIN",
+        "username": "kkurus",
+        "url": "https://pl.linkedin.com/in/kajetan-kurus-8220712a"
+      },
+      {
+        "network": "Facebook",
+        "username": "kkurus",
+        "url": "https://www.facebook.com/kkurus"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "INTIVE S.A., Enterprise Applications",
+      "position": "Senior Software Engineer / Service Line Manager",
+      "website": "https://www.intive.com",
+      "startDate": "2018-06-01",
+      "summary": "Enterprise Applications Service Line focuses on business and process oriented, enterprise level software, covering business logic/backend and presentation layer/front-end, supporting different business processes including business critical and mission critical applications for industries like finance, telecom or high-tech.",
+      "highlights": [
+        "People Management: employee personal development, performance reviews, hiring/firing decisions, setting salaries, administration.",
+        "Team Management: recruitment and teams ramp-up, rotation management, site management, employer branding",
+        "Asset and Tools Management: internal tools and frameworks management, partnerships, hardware and tools management",
+        "Expertise Management: knowledge sharing, standardisation, domain expertise, external and internal trainings",
+        "Sales Support: pre-sales and bid management"
+      ]
+    },
+    {
+      "company": "INTIVE S.A., Smart Order Router",
+      "position": "Senior Software Engineer",
+      "website": "https://www.intive.com",
+      "startDate": "2017-09-01",
+      "endDate": "2018-05-30",
+      "summary": "Smart Order Router is a software server application responsible for micro-optimization of exchange order execution based on available market data. It is an algorithmic trading system which contains an engine running a set of algorithms. Most of the algorithms are tailored to perform various forms of Sweep and Post as well as tracking dark liquidity.",
+      "highlights": [
+        "Maintenance and product developement of Smart Order Router.",
+        "Database management.",
+        "Performing software releases to production environment.",
+        "First line of support."
+      ]
+    },
+    {
+      "company": "INTIVE S.A., Global Compliance Engine ",
+      "position": "Software Engineer",
+      "website": "https://www.intive.com",
+      "startDate": "2017-04-01",
+      "endDate": "2017-08-30",
+      "summary": "Global Compliance Engine is mission critical Risk Management platform that supports Pre Trade Limit Checks and Regulatory Compliance for electronic trading applications including low latency trading covering 200+ markets across internet business applications.",
+      "highlights": [
+        "Maintenance and product development of Global Compliance Engine application."
+      ]
+    },
+    {
+      "company": "INTIVE S.A., VP2",
+      "position": "Software Engineer / Hardware Manager",
+      "website": "https://www.intive.com",
+      "startDate": "2015-02-20",
+      "endDate": "2016-11-30",
+      "summary": "Extensive maintenance and product development of Infotainment System for one of the biggest automotive alliance. Product developed for multiple car platforms witch global reach. Responsible for Antitheft features and communication via CAN witch instrumental panel cluster. Alongside C/C++ development of the product, there was also a far-reaching analysis of the product behavior using Vector CANoe and 3rd party automotive component suppliers. Project driven strictly to Automotive SPICE and source code is developed according to MISRA-C.",
+      "highlights": [
+        "Maintenance and product development of Infotainment System.",
+        "Introducing new technologies and improving process of handling hardware provided by client for test and development purposes."
+      ]
+    },
+    {
+      "company": "WROCLAW UNIVERSITY OF TECHNOLOGY",
+      "position": "Teacher",
+      "website": "http://www.pwr.wroc.pl",
+      "startDate": "2014-02-01",
+      "endDate": "2015-02-01",
+      "highlights": [
+        "Object Programming",
+        "Control Theory"
+      ]
+    },
+    {
+      "company": "EYEDEA RECOGNITION S.R.O.",
+      "position": "Intern (Software Developer)",
+      "website": "https://www.eyedea.cz",
+      "startDate": "2014-07-01",
+      "endDate": "2014-08-30",
+      "summary": "Individual project developed as an additional feature for the EyeDea product family.  Based on the research papers from Prague University of Technology a prototype in MATLAB was created using a C++ library EyeFace and OpenCV. Next a C++ version of the program was developed. Program allows to estimate a person heart rate using a video sequence",
+      "highlights": [
+        "Prototyping in MATLAB and developing in C++ a heart rate estimation system for video sequences.",
+        "Developing high fps interface module for eye tracking project."
+      ]
+    },
+    {
+      "company": "NOKIA SIEMENS NETWORKS SP. Z O.O.",
+      "position": "Intern (Software Developer)",
+      "website": "https://www.nokia.com/networks/",
+      "startDate": "2011-07-01",
+      "endDate": "2011-09-30",
+      "summary": "Design and implementation of a graphical user interface and automation process for the line-of-sight propagation simulator developed by Nokia Siemens Networks Germany. Interface allowed to manage, create and edit base station settings and run the simulation without the knowledge of the simulator initialization process.  Program was developed for the developer team in Nokia Siemens Networks Wroclaw and creators of the simulator in Nokia Siemens Network Germany. A simplified user interface was created for the unauthorized personnel in Nokia Siemens Networks.",
+      "highlights": [
+        "Design and implementation of user interface for line-of-sight propagation simulator of UMTS/LTE base station in MATLAB.",
+        "Create C version of the simulator as an interface for unauthorised programmers."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Intive Patronage Program",
+      "position": "Project Leader",
+      "website": "https://www.intive.com/insights/csr/the-patronage-program?fbclid=IwAR0MZkAMo0avqeMkPtZFgEExnPcXo152neHsDUry3oQuEzzz6Wzr5fMKHgI",
+      "startDate": "2019-02-01",
+      "endDate": "2019-06-30",
+      "summary": "The main reason of creating the Patronage Program was a need for finding an alternative to the standard internship programs. We focused on providing a maximum dose of knowledge with an optimal time occupancy of our employees – project mentors. Program gives participants the opportunity to see how a real end-to-end application development looks like under the guidance of our best professionals."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Wrocław University of Technology",
+      "area": "Electronics/Control engineering and robotics",
+      "studyType": "B.E.- Bachelor of Engineering",
+      "startDate": "2008-10-01",
+      "endDate": "2012-02-28",
+      "courses": [
+        "IBM DB2 9.7 Academic Workshop"
+      ]
+    },
+    {
+      "institution": "Wrocław University of Technology",
+      "area": "Electronics/Computer science",
+      "studyType": "B.E.- Bachelor of Engineering",
+      "startDate": "2010-10-01",
+      "endDate": "2014-02-28",
+      "courses": [
+        "CISCO CCNA 1",
+        "CISCO CCNA 2",
+        "LabVIEW"
+      ]
+    },
+    {
+      "institution": "Wrocław University of Technology",
+      "area": "Electronics/Control engineering and robotics",
+      "studyType": "M.Sc.– Master of Science",
+      "startDate": "2012-03-01",
+      "endDate": "2013-06-30"
+    },
+    {
+      "institution": "Wrocław University of Economics",
+      "area": "Kierownik zespołu - team leader",
+      "studyType": "Postgraduate Studies",
+      "startDate": "2016-09-01",
+      "endDate": "2017-06-30"
+    }
+  ],
+
+  "publications": [
+    {
+      "name": "Object Tacking Algorithm using Daubechies Wavelets ",
+      "publisher": "Aktualne Problemy Automatyki i Robotyki, Komitet Automatyki i Robotyki Polskiej Akademii Nauk",
+      "releaseDate": "2015-02-10",
+      "summary": "Paper presents a Daubechies wavelet based object tracking method with respect to object's translation, rotation and scaling, using Hausdorff measure to find a matching pattern."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Development",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "STL",
+        "Bash",
+        "Boost",
+        "Spring",
+        "Multithreading",
+        "REST",
+        "SOAP"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Database",
+      "keywords": [
+        "SQL",
+        "Oracle",
+        "DB2"
+      ]
+    },
+    {
+      "name": "Testing",
+      "keywords": [
+        "Google Test",
+        "Robot Framework"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Jira",
+        "Git",
+        "Subversion",
+        "TeamCity",
+        "Wireshark",
+        "Microsoft Visual Studio 2018",
+        "Microsoft Visual Studio Code",
+        "IDEA IntelliJ",
+        "Eclipse",
+        "Vector CANoe"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "keywords": [
+        "Windows",
+        "Unix/Linux",
+        "Linux RedHat",
+        "MacOS",
+        "iOS"
+      ]
+    },
+    {
+      "name": "Methodologies, Standards and Frameworks",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Kanban",
+        "Test Driven Developement",
+        "Continuous integration",
+        "Continuous deployment",
+        "DevOps",
+        "Misra C/C++",
+        "Automotive SPICE"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "C1"
+    },
+    {
+      "language": "German",
+      "fluency": "A2"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": [
+        "MTB Downhill",
+        "Tennis"
+      ]
+    },
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Filmmaking",
+        "Auto detailing"
+      ]
+    }
+  ]
+}
