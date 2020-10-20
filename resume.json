@@ -181,13 +181,15 @@
     {
       "name": "Backend Development",
       "keywords": [
-        "C",
         "C++",
+        "C",
         "Java",
+        "You.I Engine One" 
+        "Objective-C",
+        "Swift",
+        "Kotlin",
         "STL",
         "Bash",
-        "Boost",
-        "Spring",
         "Multithreading",
         "REST",
         "SOAP"
@@ -224,26 +226,35 @@
         "Git",
         "Subversion",
         "TeamCity",
+        "Jenkins",
         "Wireshark",
+        "Charles",
+        "XCode",
         "Microsoft Visual Studio 2018",
         "Microsoft Visual Studio Code",
         "IDEA IntelliJ",
         "Eclipse",
+        "Android Studio",
         "Vector CANoe"
       ]
     },
     {
       "name": "Operating Systems",
       "keywords": [
-        "Windows",
+        "MacOS",
         "Unix/Linux",
         "Linux RedHat",
-        "MacOS",
-        "iOS"
+        "Windows",
+        "iOS",
+        "tvOS",
+        "Android",
+        "Fire OS",
+        "Roku OS",
+        "Tizen"
       ]
     },
     {
-      "name": "Methodologies, Standards and Frameworks",
+      "name": "Methodologies and Standards",
       "keywords": [
         "Agile",
         "Scrum",
