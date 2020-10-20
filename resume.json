@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Kajetan Kurus",
-    "label": "Programmer / Line Manager",
-    "picture": "https://scontent-waw1-1.xx.fbcdn.net/v/t31.0-8/28828798_10211685977326779_1550083750231931511_o.jpg?_nc_cat=102&_nc_oc=AQl6guOQx-3hxnRvWmHl8t7-YLnfz_vMToTDzC8BZ1y036X554Wmzwv1oQUDguE2fX1w1asSPksxa00zBSLNBFPh&_nc_ht=scontent-waw1-1.xx&oh=48eaebc6bf67e518cbc53d9c8492c68d&oe=5E5B1FC3",
+    "label": "Senior Software Engineer",
+    "picture": "https://scontent-waw1-1.xx.fbcdn.net/v/t31.0-8/28828798_10211685977326779_1550083750231931511_o.jpg?_nc_cat=102&_nc_sid=09cbfe&_nc_ohc=hq3ZVPbocY0AX-DnNY1&_nc_ht=scontent-waw1-1.xx&oh=ac46349b0dfa8d15a9b23d9d3c776b0e&oe=5FB43F3D",
     "email": "kajetan.kurus@gmail.com",
     "phone": "(+48) 605997507",
     "website": "krtsolutions.pl",
-    "summary": "Experienced C++ developer owing to over 7 years of professional practice and being a programming teacher at the university. Line Manager focused on people and team management. Skilled in creating multiplatform applications including iOS, Android, Tizen and Roku both in C++ supplemented by native languages like Swift, BrightScript, JavaScript and Kotlin. Experienced in Automotive field as a result of extensive professional practice and personal interests. Good knowledge of MATLAB and Java due to prototyping and developing experience gained during internships, research work and private projects. Comprehensive thanks to two engineer degrees, master’s degree, postgraduate studies, versatile courses end experience from both local and foreign companies. Communicative, open-minded, team-player, constantly self-developing, interested in project and team management.",
+    "summary": "Experienced C++ developer owing to over 7 years of professional practice and being a programming teacher at the university. Line Manager focused on people and team management. Skilled in creating multi-platform applications including iOS, Android, Tizen and Roku both in C++ supplemented by native languages like Swift, BrightScript, JavaScript and Kotlin. Experienced in Automotive field as a result of extensive professional practice and personal interests. Good knowledge of MATLAB and Java due to prototyping and developing experience gained during internships, research work and private projects. Comprehensive thanks to two engineer degrees, master’s degree, postgraduate studies, versatile courses end experience from both local and foreign companies. Communicative, open-minded, team-player, constantly self-developing, interested in project and team management.",
     "location": {
       "address": "Lotnicza 145 B65",
       "postalCode": "54-132",
@@ -46,7 +46,7 @@
         "Google Assistant Integration."
       ]
     },
-    {
+{
       "company": "INTIVE S.A., News App",
       "position": "Senior Software Engineer",
       "website": "https://www.intive.com",
@@ -59,17 +59,17 @@
         "Integration of third-party analytics and IAMs (Segment, Comscore, Swrve)."
       ]
     },
-    {
+{
       "company": "INTIVE S.A., In-Car VOD App",
       "position": "Senior Software Engineer",
       "website": "https://www.intive.com",
       "startDate": "2020-08-15",
       "endDate": "2020-09-30",
-      "summary": "VOD app dedicated to in-car WiFi router. Allows clients to watch free Movies and TV Series when on a car.", 
+      "summary": "VOD app dedicated to in-car WiFi router. Allows clients to watch free Movies and TV Series when on a car.",
       "highlights": [
         "Based on You.I Engine One.",
-        "Team extension to implement key features for the first release”,
-	"Integration with Conviva”
+        "Team extension to implement key features for the first release.",
+	"Conviva Integration."
       ]
     },
     {
@@ -77,7 +77,6 @@
       "position": "Senior Software Engineer / Service Line Manager",
       "website": "https://www.intive.com",
       "startDate": "2018-06-01",
-      "endDate": "2019-10-30",
       "summary": "Enterprise Applications Service Line focuses on business and process oriented, enterprise level software, covering business logic/backend and presentation layer/front-end, supporting different business processes including business critical and mission critical applications for industries like finance, telecom or high-tech.",
       "highlights": [
         "People Management: employee personal development, performance reviews, hiring/firing decisions, setting salaries, administration.",
@@ -217,14 +216,14 @@
       "summary": "Paper presents a Daubechies wavelet based object tracking method with respect to object's translation, rotation and scaling, using Hausdorff measure to find a matching pattern."
     }
   ],
-  "skills": [
+"skills": [
     {
       "name": "Backend Development",
       "keywords": [
         "C++",
         "C",
         "Java",
-        "You.I Engine One" 
+        "You.I Engine One",
         "Objective-C",
         "Swift",
         "Kotlin",
@@ -299,7 +298,7 @@
         "Agile",
         "Scrum",
         "Kanban",
-        "Test Driven Developement",
+        "Test Driven Development",
         "Continuous integration",
         "Continuous deployment",
         "DevOps",
