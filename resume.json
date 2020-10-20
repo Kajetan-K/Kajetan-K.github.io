@@ -6,7 +6,7 @@
     "email": "kajetan.kurus@gmail.com",
     "phone": "(+48) 605997507",
     "website": "krtsolutions.pl",
-    "summary": "Experienced C++ developer owing to over 7 years of professional practice and being a programming teacher at the university. Line Manager focused on people and team management. Skilled in creating multiplatform applications including iOS, Android, Tizen and Roku both in C++ supplemented by native languages like Swift, BrightScript, JavaScript and Kotlin. Experienced in Automotive field as a result of extensive professional practice and personal interests. Good knowledge of MATLAB and Java due to prototyping and developing experience gained during internships, research work and private projects. Comprehensive thanks to two engineer degrees, master’s degree, postgraduate studies, versatile courses end experience from both local and foreign companies. Communicative, open-minded, team-player, constantly self-developing, interested in project and team management."
+    "summary": "Experienced C++ developer owing to over 7 years of professional practice and being a programming teacher at the university. Line Manager focused on people and team management. Skilled in creating multiplatform applications including iOS, Android, Tizen and Roku both in C++ supplemented by native languages like Swift, BrightScript, JavaScript and Kotlin. Experienced in Automotive field as a result of extensive professional practice and personal interests. Good knowledge of MATLAB and Java due to prototyping and developing experience gained during internships, research work and private projects. Comprehensive thanks to two engineer degrees, master’s degree, postgraduate studies, versatile courses end experience from both local and foreign companies. Communicative, open-minded, team-player, constantly self-developing, interested in project and team management.",
     "location": {
       "address": "Lotnicza 145 B65",
       "postalCode": "54-132",
@@ -38,7 +38,7 @@
       "position": "Senior Software Engineer",
       "website": "https://www.intive.com",
       "startDate": "2019-11-01",
-      "summary": "Application providing live weather channel feed extended by local forecast, weather maps and weather alerts. Supported platforms: Android TV, Tizen, Fire TV and Roku
+      "summary": "Application providing live weather channel feed extended by local forecast, weather maps and weather alerts. Supported platforms: Android TV, Tizen, Fire TV and Roku",
       "highlights": [
         "Based on You.I Engine One.",
         "Feature development and bug fixing.",
@@ -52,11 +52,11 @@
       "website": "https://www.intive.com",
       "startDate": "2020-01-01",
       "endDate": "2020-08-31",
-      "summary": "Application providing news feeds for user current location in form of short VOD clips. User had also access to library of short clips, TV Series, Movies and weather live feed if available for the region. Supported platforms: iOS, tvOS, Android, Tizen, Roku, Fire TV.
+      "summary": "Application providing news feeds for user current location in form of short VOD clips. User had also access to library of short clips, TV Series, Movies and weather live feed if available for the region. Supported platforms: iOS, tvOS, Android, Tizen, Roku, Fire TV.",
       "highlights": [
         "Based on You.I Engine One.",
         "Feature development and bug fixing.",
-        "Integration of third-party analytics and IAMs (Segment, Comscore, Swrve).",
+        "Integration of third-party analytics and IAMs (Segment, Comscore, Swrve)."
       ]
     },
     {
@@ -65,11 +65,11 @@
       "website": "https://www.intive.com",
       "startDate": "2020-08-15",
       "endDate": "2020-09-30",
-      "summary": "VOD app dedicated to in-car WiFi router. Allows clients to watch free Movies and TV Series when on a car. 
+      "summary": "VOD app dedicated to in-car WiFi router. Allows clients to watch free Movies and TV Series when on a car.", 
       "highlights": [
-        "Based on You.I Engine One."
+        "Based on You.I Engine One.",
         "Team extension to implement key features for the first release”,
-	      "Integration with Conviva”
+	"Integration with Conviva”
       ]
     },
     {
